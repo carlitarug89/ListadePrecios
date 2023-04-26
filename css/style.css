@@ -1,0 +1,35 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   background-color: rgb(234, 20, 20);
+}
+
+a {
+   color: red;
+   text-decoration: none;
+   padding: 20px;
+}
+
+#enlace_distint {
+   color: red;
+}
+
+p {
+   width: 100%;
+   padding: 15px 0;
+}
+
+#img-principal{
+   width: 100%;
+}
+
+
+h2{
+   margin-top: 30px;
+   margin-bottom:30px;
+   text-align: center;
+}
